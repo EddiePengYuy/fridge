@@ -21,7 +21,7 @@
 │   ├── 4.avi          // 第四视角视频  
 │   └── calibration.avi // 640*480像素图像相机相对参数  
 └── output             // 输出结果  
-    ├── animation.gif      // 三维可视化GIF格式输出  
-    ├── tracked_video.avi  // 特征点追踪结果  
-    ├── tracked_points.txt // 特征点二维像素坐标  
-    └── demo.mp4           // 对比结果  
+│   ├── animation.gif      // 三维可视化GIF格式输出  
+│   ├── tracked_video.avi  // 特征点追踪结果  
+│   ├── tracked_points.txt // 特征点二维像素坐标  
+│   └── demo.mp4           // 对比结果  
