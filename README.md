@@ -9,7 +9,7 @@
 - opencv-python
 
 # 目录结构描述
-print("├── config.py          // 保存相机参数及冰箱顶点像素坐标  
+├── config.py          // 保存相机参数及冰箱顶点像素坐标  
 ├── vertices.py        // 三角化恢复3D坐标  
 ├── LK光流法.py       // LK光流法追踪冰箱门上边缘特征点  
 ├── feature_points.py  // 重建特征点三维坐标  
@@ -19,7 +19,6 @@ print("├── config.py          // 保存相机参数及冰箱顶点像素�
 │   ├── tracked_video.avi  // 特征点追踪结果  
 │   ├── tracked_points.txt // 特征点二维像素坐标  
 │   └── demo.mp4           // 对比结果  
-") 
 
 # 数据
 链接：https://pan.baidu.com/s/1BF5wPHyUDbjlejOul-Id1w?pwd=3cpy  
