@@ -15,6 +15,8 @@
 ├── display.py         // 三维可视化  
 ├── vertices.py        // 三角化恢复3D坐标  
 ├── data               // 输入数据  
+    链接：https://pan.baidu.com/s/1BF5wPHyUDbjlejOul-Id1w?pwd=3cpy 
+    提取码：3cpy
 │   ├── 1.avi          // 第一视角视频  
 │   ├── 2.avi          // 第二视角视频  
 │   ├── 3.avi          // 第三视角视频  
